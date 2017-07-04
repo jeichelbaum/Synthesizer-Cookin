@@ -1,6 +1,9 @@
-"Cookin" is a simple additive synthesiser VST, that comes with 8 different presets. If you happen to create a song with it send me a copy!
+# Cookin
+A simple additive synthesizer VST, that comes with 8 different presets. If you happen to create a song with it send me a copy!
 
-Installation:
+Short demo of the presets: https://soundcloud.com/tschery/cookin-demo-free-vst-download
+
+# Installation:
 Drop the cookin.dll in you VST Plugin Folder
 
 Author: www.tschery.com
